@@ -1,0 +1,22 @@
+[
+    {
+      "id": 1,
+      "firstname": "Jackie",
+      "lastname": "Chan",
+      "username": "Jackie.Chan",
+      "address": "Address somewhere in China",
+      "dateOfBirth": "1954-04-07",
+      "password": "limbo1234",
+      "isActive": "true"
+    },
+    {
+      "id": 2,
+      "firstname": "Bruce",
+      "lastname": "Lee",
+      "username": "Bruce.Lee",
+      "address": "Address somewhere in USA",
+      "dateOfBirth": "1940-10-27",
+      "password": "mnopqrstuv",
+      "isActive": "true"
+    }
+  ]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "traineeId": 1,
+    "trainerId": 1,
+    "trainingName": "Cardio Workout",
+    "trainingType": "CARDIO",
+    "date": "2024-04-01",
+    "duration": 60
+  },
+  {
+    "id": 2,
+    "traineeId": 2,
+    "trainerId": 2,
+    "trainingName": "Kungfu Training",
+    "trainingType": "KUNGFU",
+    "date": "2024-04-01",
+    "duration": 45
+  }
+]

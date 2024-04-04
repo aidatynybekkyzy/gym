@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "specialization": ["CARDIO", "STRENGTH"],
+      "firstname": "Tom",
+      "lastname": "Cruise",
+      "username": "Tom.Cruise",
+      "password": "abcdefghij",
+      "isActive": true
+    },
+    {
+      "id": 2,
+      "specialization": [ "KUNGFU"],
+      "firstname": "Jet",
+      "lastname": "Li",
+      "username": "Jet.Li",
+      "password": "bcdefghijk",
+      "isActive": true
+    }
+  ]
+
